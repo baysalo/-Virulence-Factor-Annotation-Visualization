@@ -42,4 +42,4 @@ ID Standardization: Cleans PHI-base IDs to ensure a 100% match between local BLA
 
 Dynamic Column Detection: Automatically identifies functional metadata columns (e.g., Protein.function or Mutant.phenotype) to prevent script failures.
 
-Filtering: Visualizes the Top 15 categories to ensure clarity and scannability for scientific publication.
+Filtering: Visualizes the Top 15 categories to ensure clarity and scannability.
